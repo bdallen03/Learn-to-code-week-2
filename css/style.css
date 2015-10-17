@@ -9,3 +9,10 @@
     height: 100px;
     display: inline-block;
 }
+html {
+background: url(http://www.passyunkpost.com/wp-content/uploads/2013/10/rockpaperscissors-640x390.png) no-repeat center center fixed;
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+}
